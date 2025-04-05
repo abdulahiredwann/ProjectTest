@@ -68,7 +68,7 @@ function NavBar() {
           {/* Right Side - Sign Up & Theme Toggle */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="#signup"
+              href="/signup"
               className="bg-yellow-400 text-white px-4 py-2 rounded-md hover:bg-yellow-300 hover:text-black transition font-semibold"
             >
               Sign Up
