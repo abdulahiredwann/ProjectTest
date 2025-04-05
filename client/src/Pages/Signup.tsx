@@ -158,6 +158,18 @@ function SignUp() {
             </a>
             .
           </p>
+
+          {/* Already Have an Account */}
+          <p className="mt-4 text-sm text-gray-600 dark:text-gray-300 text-center">
+            Already have an account?{" "}
+            <a
+              href="/login"
+              className="text-yellow-400 hover:text-yellow-500 transition"
+            >
+              Login
+            </a>
+            .
+          </p>
         </div>
       </div>
     </section>
